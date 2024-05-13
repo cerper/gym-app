@@ -7,7 +7,7 @@ import { fadeIn } from "@/lib/variants";
 const Testimonial = () => {
   return (
     <section
-      className="h-[70vh] py-8 md:h-[80vh] lg:h-[88vh] "
+      className="h-[70vh] py-8 md:h-[80vh] xl:h-[88vh] "
       id="testimonials"
     >
       <div className="container  mx-auto flex h-full flex-col">

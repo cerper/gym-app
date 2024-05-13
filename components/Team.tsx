@@ -81,14 +81,13 @@ const Team = () => {
                   initial="hidden"
                   whileInView={"show"}
                   viewport={{ once: false, amount: 0.2 }}
-                  className="relative mx-auto mt-4  flex h-[260px] w-[220px]"
+                  className=" mx-auto mt-4  flex h-[260px] w-[220px]"
                 >
                   <Image
                     src={person.image}
                     alt={person.name}
                     width={300}
                     height={300}
-                    className=""
                   />
                 </motion.div>
                 <motion.h3

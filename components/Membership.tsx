@@ -9,7 +9,7 @@ const Membership = () => {
     <section
       className="
       relative bg-membership 
-      bg-cover bg-center py-8 before:absolute before:top-0 before:z-10 before:h-full before:w-full before:bg-black/50 lg:h-[105vh] xl:py-0"
+      bg-cover bg-center py-8 before:absolute before:top-0 before:z-10 before:h-full before:w-full before:bg-black/50 xl:h-[105vh] xl:py-0"
       id="prices"
     >
       <div className="container relative z-20 mx-auto flex h-full flex-col px-0 text-white xl:pt-24">
