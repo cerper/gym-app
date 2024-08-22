@@ -39,7 +39,7 @@ const Header = () => {
           />
         </Link>
         {/*mobile nav */}
-        <MobileNav containerStyles="capitalize fixed text-white mt-4 flex text-sm gap-1.5 md:text-xl lg:hidden" />
+        <MobileNav containerStyles="capitalize fixed text-white mt-4 flex text-base gap-3 md:text-xl lg:hidden" />
         <Nav containerStyles="capitalize flex gap-4 hidden font-bold text-white lg:flex" />
       </div>
     </header>
